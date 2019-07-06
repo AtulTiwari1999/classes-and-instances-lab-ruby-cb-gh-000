@@ -2,5 +2,5 @@ class Dog
 end
 
 snoopy=Dog.new
-dogz=Dog.new
-woofie=Dog.new
+fido=Dog.new
+snoopy=Dog.new
